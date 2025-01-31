@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include <stdio_ext.h> //habilita limpeza do buffer de teclado no linux
+#include <stdio_ext.h>
 #define L 15
 #define C 15
 #define TRUE 1
